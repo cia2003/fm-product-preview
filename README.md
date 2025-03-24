@@ -27,10 +27,10 @@ Users should be able to:
 ### Screenshot
 
 - Desktop Screenshot:
-![](/screenshots/desktop_ss.png)
+<img src="/screenshots/desktop_ss.png" width="500px" height="300px" object-fit="cover">
 
 - Mobile Screenshot:
-![](/screenshots/mobile_ss.png)
+<img src="/screenshots/mobile_ss.png" width="375px" height="800px" object-fit="cover">
 
 ### Links
 
