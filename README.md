@@ -37,6 +37,8 @@ Users should be able to:
 - [Solution URL](https://github.com/cia2003/fm-product-preview)
 - [Live Site URL](https://cia2003.github.io/fm-product-preview/)
 
+![Book logo](/images/image-product-desktop.jpg)
+
 ## My process
 
 ### Built with
