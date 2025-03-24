@@ -91,7 +91,7 @@ main {
     color: var(--Green-500);
 }
 
-.product__price-starting {
+.product__price-original {
     text-decoration: line-through;
 }
 
