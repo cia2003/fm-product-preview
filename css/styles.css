@@ -45,7 +45,7 @@ main {
 }
 
 .product__img {
-    background-image: url('/images/image-product-desktop.jpg');
+    background-image: url('https://cia2003.github.io/fm-product-preview/images/image-product-desktop.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     aspect-ratio: 2/3;
@@ -136,7 +136,7 @@ main {
     }
 
     .product__img {
-        background-image: url('/images/image-product-mobile.jpg');
+        background-image: url('https://cia2003.github.io/fm-product-preview/images/image-product-mobile.jpg');
         aspect-ratio: 5.45/3.82;
         border-radius: 10px 10px 0 0;
 
